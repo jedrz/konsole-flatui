@@ -8,3 +8,7 @@ Konsole.
 Copy `flatui.colorscheme` to `~/.local/share/konsole/` directory and then open
 Konsole and select the color scheme via Settings -> Edit Current Profile ->
 Appearance.
+
+## Screenshot
+
+![screenshot](screenshot.png)
